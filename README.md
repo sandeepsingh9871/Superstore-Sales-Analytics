@@ -232,7 +232,7 @@ Built RFM (Recency, Frequency, Monetary) features for 793 customers and applied 
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/superstore-sales-analytics.git
+git clone https://github.com/sandeepsingh9871/superstore-sales-analytics.git
 cd superstore-sales-analytics
 
 # 2. Install Python dependencies
